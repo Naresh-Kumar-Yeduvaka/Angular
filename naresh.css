@@ -1,0 +1,29 @@
+body{
+	line-height: 2em;
+	margin-left: 20%;
+	margin-top: 50px;
+}
+input{
+	border-style: solid;
+	border-radius: 30px;
+	padding-left: 5px;
+	font-size: 20px;
+}
+label{
+	padding-left:30px;
+	margin-right: 30px;
+	font-size: 20px;
+}
+p,span {
+	font-size: 20px;
+}
+span{
+	margin-left: 150px;
+}
+#result{
+	margin-left: 650px;
+}
+#cal{
+	text-align: center;
+	margin-left: 300px;
+}
